@@ -1,0 +1,11 @@
+title: Blog
+description: >-
+  Lewis O'Driscoll's blog about all things software engineering.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lewis-od.co.uk"
+github_username: lewis-od
+linkedin_username: lewis-odriscoll
+
+theme: minima
+plugins:
+  - jekyll-feed
