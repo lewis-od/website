@@ -130,6 +130,7 @@ communication, where the certificates used are issued by a private CA that lives
 within the network.
 
 ## Roadmap
-The next post in this series will look at setting up Vault to act as a private
-CA. Then we'll look at using that CA to issue certificates to microservices, 
-which will authenticate with one another using mTLS.
+The [next post](/mutual-tls/2020/11/07/vault-as-a-ca.html) in this series will 
+look at setting up Vault to act as a private CA. Then we'll look at using that 
+CA to issue certificates to microservices, which will authenticate with one 
+another using mTLS.
