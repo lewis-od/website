@@ -218,5 +218,12 @@ running the Vault server in dev mode, and haven't set up any proper
 authentication, RBAC, etc. Definitely don't do that in production!
 
 ### Conclusion
-That's all folks! In the next post we'll take a look at using our newly 
+That's all folks!
+
+The Terraform code for configuring Vault written for this post can be found on
+Github [here](https://github.com/lewis-od/vault-mtls/tree/master/terraform).
+Note that this has been extended to include an intermediate authority, as 
+described above.
+
+In the next post we'll take a look at using our newly 
 configured CA to perform mTLS between a client and server application.
