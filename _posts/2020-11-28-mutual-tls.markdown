@@ -3,7 +3,7 @@ layout: post
 title:  "Mutual TLS between microservices"
 date:   2020-11-28
 category: mutual-tls
-tags: hashicorp vault go microservices tls
+tags: hashicorp vault go microservices tls pki
 ---
 
 This post is the 3rd in a series on mutual TLS. You can find part one 

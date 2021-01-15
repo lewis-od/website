@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "How does TLS work?"
-date:   2020-10-25 13:04:21 +0000
+date:   2020-10-25
 category: mutual-tls
-tags: tls ssl certificate https
+tags: tls ssl https pki
 ---
 
 ## Intro

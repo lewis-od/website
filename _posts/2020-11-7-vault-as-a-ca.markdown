@@ -3,7 +3,7 @@ layout: post
 title:  "Setting up Vault as a Certificate Authority"
 date:   2020-11-07
 category: mutual-tls
-tags: hashicorp vault certificate authority tls
+tags: hashicorp vault certificate-authority tls pki
 ---
 
 Following on from my last post about TLS, in this post we'll look at setting up 

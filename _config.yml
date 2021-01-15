@@ -1,11 +1,20 @@
-title: Blog
+title: Lewis O'Driscoll
+author: Lewis O'Driscoll
 description: >-
   Lewis O'Driscoll's blog about all things software engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lewis-od.co.uk"
-github_username: lewis-od
-linkedin_username: lewis-odriscoll
 
-theme: minima
+navbar-links:
+  Blog: "/"
+  Tags: "tags"
+  About: "about"
+
+social-network-links:
+  github: lewis-od
+  linkedin: lewis-odriscoll
+
+theme: beautiful-jekyll-theme
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
